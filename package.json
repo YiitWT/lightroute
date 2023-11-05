@@ -1,0 +1,27 @@
+{
+  "name": "lightroute",
+  "version": "1.0.0",
+  "description": "A ligth weight router module just like ExpressJS, it's easy to use and easy to understand and it's a good choice for beginners.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "net": "^1.0.2",
+    "glob": "^10.3.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YiitWT/lightroute"
+  },
+  "keywords": [
+    "lightweight",
+    "router",
+    "module",
+    "express",
+    "YiitWT",
+    "valancess"
+  ],
+  "author": "YiitWT, Valancess",
+  "license": "Apache-2.0"
+}
