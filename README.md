@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/YiitWT/lightroute/main/cdn/banner.png)
+![Banner](https://raw.githubusercontent.com/YiitWT/lightroute/main/cdn/Textbanner.png)
 # 🌩️ LightRoute
 
 A ligth weight router module just like ExpressJS, it's easy to use and easy to understand and it's a good choice for beginners also professionals.
