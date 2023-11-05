@@ -32,6 +32,7 @@ You can learn how to use it from GitBook
 
 ## ❓ Support
 You can get support from our discord servers
+
 [![](https://dcbadge.vercel.app/api/server/MSyvQpurXc)](https://discord.gg/MSyvQpurXc)
 
 [![](https://dcbadge.vercel.app/api/server/whW7c9azVF)](https://discord.gg/whW7c9azVF)
